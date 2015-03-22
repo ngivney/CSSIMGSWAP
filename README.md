@@ -1,2 +1,2 @@
 # CSSIMGSWAP
-Swaps image on hover with only CSS
+Swaps image on hover and populates dropdown menu with CSS only.
