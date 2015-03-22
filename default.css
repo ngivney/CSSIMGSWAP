@@ -6,7 +6,7 @@ html,body {height:100%; margin:0; padding:0;}
 a:link {color:Blue; text-decoration: none;}      /* unvisited link */
 a:visited {color:Blue; text-decoration: none;}  /* visited link */
 a:hover {color:Green; text-decoration: none;}  /* mouse over link */
-a:active {color:Green; text-decoration: box;}  /* selected link */ 
+a:active {color:Green; text-decoration: underline;}  /* selected link */ 
 
 .contentBox {
 width:150px; 
